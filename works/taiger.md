@@ -19,7 +19,7 @@ github (Android): [https://github.com/Nexters/TaigerApp](https://github.com/Next
 ---
 <p align="center"><img src="/img/taiger/taiger.png" alt="1" class="img-responsive"/></p>
 <p align="center"><img src="/img/taiger/taiger_2.jpg" alt="2" class="img-responsive"/></p>
-<p align="center"><img src="/img/taiger/taiger_3.jpg" alt="3" class="img-responsive"/></p>
+<p align="center"><img src="/img/taiger/taiger_3.png" alt="3" class="img-responsive"/></p>
 
 <h3 class="section">My Develop Part</h3>
 <h5> - Back End Develop</h5>
