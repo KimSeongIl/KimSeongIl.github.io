@@ -93,7 +93,7 @@ navigation: Resume
 - with JeongYeop Lee(Full-Stack)
 - HTML / CSS / JavaScript(jQuery) / PHP(Codeigniter) / MySQL
 - 담당 파트 - Full-Stack Develop
-- Detatl - [CPMS]({{site.url}}/works/cpms/)
+- Detail - [CPMS]({{site.url}}/works/cpms/)
 
 <br>
 
