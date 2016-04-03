@@ -1,11 +1,11 @@
 # Site settings
-title: JeongYeop Lee (Nayak)
-email: wjdduq914@gmail.com
+title: SeongIl Kim (Allan)
+email: kk4646kr@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://leejeongyeop.github.io" # the base hostname & protocol for your site
+#url: "http://kimseongil.github.io" # the base hostname & protocol for your site
 #url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-github: "github.com/LeeJeongYeop"
-github_url: "https://github.com/LeeJeongYeop"
+github: "github.com/kimseongil"
+github_url: "https://github.com/kimseongil"
 
 # Build settings
 markdown: kramdown
