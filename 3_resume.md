@@ -49,44 +49,58 @@ navigation: Resume
 -->
 <h3 class="section">Project</h3>
 
-##### **Antenna | Nexters | 2015.07 - 2016.02**
-- 음악 취향에 맞게 익명으로 1:1 매칭되어 음악을 추천해주는 어플리케이션
-- with 개나소나팀
-- IOS / Node.js(Express) / MariaDB
-- 담당 파트 - Back-end Develop
-- Detail - [Antenna]({{site.url}}/works/antenna/)
+##### **NextersHompage2 | Nexters | 2016.03 ~ ing**
+- 넥스터즈 홍보용 및 관리 페이지
+- with Lick Lim(Back-End), JoonBeom Lee(Front-End), Qurian Kim(Design), SangYeon Lee(Front-End), EunBeol Kim(Design)
+- HTML / CSS / JavaScript(jQuery) / JSP(Spring Data JPA) / MySQL / AWS EC2 AMI
+- 담당 파트 - Back-End Develop
+- Detail - [NextersHomepage2]({{site.url}}/works/nextershomepage2/)
 
-##### **INNOBOOSTRIA | INNOBOOST | 2015.07 - 2016.01**
-- 사내 업무 솔루션 및 스케줄관리, HR, 재무관리 시스템 개발
-- with Dongkyu Lee(Back-End)
-- Python(Django) / HTML(used Django Template) / CSS / JavaScript(jQuery) / MariaDB(used Django ORM)
+##### **Dr.Code | 성공회대학교 IT 경진대회 | 2016.03 ~ ing**
+- 교내에서 Eclipse 같은 IDE 없는 실습환경을 만들고 수업관리를 돕는 웹 서비스
+- with TaeEun Choi(Back-End), TaeWoong Rho(Front-End), SeIn Go(Design)
+- HTML / CSS / JavaScript(jQuery) / JSP(Spring Data JPA) / MySQL / AWS EC2 AMI
 - 담당 파트 - Full-Stack Develop
-- Detail - [INNOBOOSTRIA]({{site.url}}/works/innoboostria/)
+- Detail - [Dr.Code]({{site.url}}/works/drcode/)
 
-##### **Clicky | hanium | 2015.07 - 2015.12**
-- 버튼을 통해 생활을 관리하는 임베디드 어플리케이션
-- with Dongdor(Android), GD(Android, Arduino)
-- Android / Arduino (ESP 8266 & WIFI shield) / Node.js(Express) / MongoDB
-- 담당 파트 - Back-end Develop
-- Detail - [clicky]({{site.url}}/works/clicky/)
+##### **Taiger | Nexters | 2015.12 - 2016.02**
+- 버스가 끊긴 야간에 택시 합승 인원 모집을 도와주는 어플리케이션
+- with DongHwan Baek(Full-Stack), BoBin Lee(Android), EunHo Jo(Back-End), NaEun Jo(Design), SooHyun Yoon(Design), UiChan Hwang(Design)
+- Android / JSP(Spring Data JPA) / MySQL / / AWS EC2 AMI 
+- 담당 파트 - Back-End Develop
+- Detail - [Taiger]({{site.url}}/works/taiger/)
 
-##### **Nektime | Nektie Co. | 2015.05 - 2015.07**
-- Online Mock Interview Service
-- with KeonKim(Back-End), DingGGu(Front-End)
-- Angular.js / Node.js(Express) / MySQL
-- 담당 파트 - Back-end Develop
-- Detail - [nektime]({{site.url}}/works/nektime/)
+##### **SKHU Counsel Reservation | 성공회대학교 데이터베이스 프로젝트 수업  | 2015.09 - 2015.12**
+- 학교 내 상담을 관리하고 신청할 수 있는 웹 서비스
+- with EunHo Jo(Full-Stack), SeIn Go(Design)
+- HTML / CSS / JavaScript(jQuey) / JSP(Mode2) / MySQL / / AWS EC2 AMI
+- 담당 파트 - Full-Stack Develop
+- Detail - [SCR System]({{site.url}}/works/scr/)
 
-##### **Daldi-달콤한디저트 | SK 플래닛 T 아카데미 | 2015.04 - 2015.05**
-- Dessert Recommend Application
-- with SooHyun Kang(Android), SooMin Lee(UI Design)
-- Android / Node.js(Express) / MariaDB / Redis
+##### **Witch Note | Nexters Unithon  | 2015.08 - 2015.08(3 Days)**
+- 지도상에 메모를 하여 일정관리를 도와주는 어플리케이션
+- with JiYeon Lee(Android), JiYeon Han(Android), YeBin Kim(Design), HoJae Yoo(Design)
+- Android / SQLite
+- 담당 파트 - Android Develop
+- Detail - [Witch Note]({{site.url}}/works/witchnote/)
+
+##### **NextersHomepage | Nexters | 2015.07 - 2015.09**
+- 넥스터즈 홍보용 및 관리 페이지
+- with Lick Lim(Back-End), JoonBeom Lee(Front-End), Qurian Kim(Design)
+- HTML / CSS / JavaScript(jQuery, AngularJS) / JSP(Spring) / PostgreSQL
 - 담당 파트 - Back-end Develop
-- Detail - [Daldi]({{site.url}}/works/daldi/)
+- Detail - [NextersHomepage]({{site.url}}/works/nextershomepage/)
+
+##### **SKHU Club | 성공회대학교 소프트웨어 경진대회 | 2015.04 - 2015.06**
+- SKHU Club Recommend Service
+- with EunHo Jo(Full-Stack)
+- HTL / CSS / JavaSCript(jQuery) / JSP(Model2) / MySQL 
+- 담당 파트 - Full-Stack Develop
+- Detail - [SKHU Club]({{site.url}}/works/skhuclub/)
 
 ##### **CPMS | CADI-W | 2015.01 - 2015.03**
 - Cadi Project Management Service
-- with SeongIl Kim(Full-Stack)
+- with JeongYeop Lee(Full-Stack)
 - HTML / CSS / JavaScript(jQuery) / PHP(Codeigniter) / MySQL
 - 담당 파트 - Full-Stack Develop
 - Detatl - [CPMS]({{site.url}}/works/cpms/)
@@ -95,43 +109,15 @@ navigation: Resume
 
 <h3 class="section">Activities</h3>
 
-##### **MSP (9기)** | 2015.08 - 활동 중
--*Microsoft Student Partner (CAFE - [MSP](http://cafe.naver.com/mspforever){:target="_blank"})*
 
-- Imagine Boot Camp for MSP 9th 참여
-- The First Semiar for MSP 참석
 
 ##### **Nexters (7기)** | 2015.07 - 2016.02
 -*연합 앱, 웹 개발 동아리 (Official Home Page - [Nexters](http://teamnexters.com/){:target="_blank"})*
 
-- 음악 취향에 맞게 익명으로 1:1 매칭되어 음악을 추천해주는 어플리케이션 ([Antenna]({{site.url}}/works/antenna/))
-- Back-end Develop (Node.js, MariaDB)
-- Server - Digital Ocean
+- 넥스터즈 홍보용 및 관리 페이지  ([NextersHomepage]({{site.url}}/works/nextershomepage/)), 버스가 끊긴 야간에 택시 합승 인원 모집을 도와주는 어플리케이션 ([Taiger]({{site.url}}/works/taiger/))
+- Back-end Develop (JSP(Spring), MySQL,PostgreSQL)
+- Server - AWS EC2 AMI
 
-##### **한이음 프로보노 ICT멘토링 프로젝트 (멘티)** | 2015.07 - 2015.12
--*한이음에서 진행하는 기업연계 착한기술 프로젝트 (Official Home Page - [hanium](http://www.hanium.or.kr/portal/index.do){:target="_blank"})*
-
-- 버튼을 통해 생활을 관리하는 임베디드 어플리케이션 ([Clicky]({{site.url}}/works/clicky/))
-- Back-end Develop (Node.js, MongoDB)
-- Server - Digital Ocean
-
-##### **Nektie Co. (Developer)** | 2015.03 - 2015.08
--*기업과 학생 및 취준생 사이의 SNS 서비스 (unit service - [Nektime]({{site.url}}/works/nektime/))*
-
-- Back-end Develop (Node.js, MySQL)
-- Server - AWS EC2 ubuntu 14.02
-
-##### **한국대학생IT경영학회 (11기 운영진)** | 2015.01 - 2015.05
--*순수 대학생들이 모여 'IT', '경영', 'IT+경영'을 공부 및 연구 (Blog - [KUSITMS](http://kusitms.tistory.com/){:target="_blank"})*
-
-- 핀테크, 스마트카, 3D프린팅, 클라우드, O2O, 빅데이터 총 여섯 분야 공부
-
-##### **T아카데미 서버전문가 과정 (9기)** | SK planet | 2015.03 - 2015.05
--*20대 여성들을 위한 위치 기반 디저트 추천 어플리케이션 ([Daldi-달콤한디저트]({{site.url}}/works/daldi/))*
-
-- 교육 이수 및 어플리케이션 사용화
-- Back-end Develop (Node.js, MariaDB, Redis)
-- Server - AWS EC2 ubuntu 14.02
 
 ##### **CADI - W (1기)** | CODE FACTORIAL | 2014.12 - 2015.03
 -*웹 개발 단기 프로젝트 동아리 (CAFE - [CODE FACTORIAL](http://cafe.naver.com/codefactorial){:target="_blank"})*
@@ -140,8 +126,3 @@ navigation: Resume
 - Full-Stack Develop (HTML, CSS, JavaScript(jQuery), PHP(Codeigniter), MySQL)
 - Server - olleh ucloud biz
 
-##### **한국대학생IT경영학회(10기 회원)** | 2014.09 - 2014.12
--*순수 대학생들이 모여 'IT', '경영', 'IT+경영'을 공부 및 연구 (Blog - [KUSITMS](http://kusitms.tistory.com/){:target="_blank"})*
-
-- 우수회원, 개근상, 수료
-- 플랫폼 비즈니스, 빅데이터, 3D프린팅, Amazon, 사물인터넷(IoT), SNS, 클라우드, Image Processing 총 여덟 분야 공부
