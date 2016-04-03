@@ -20,6 +20,12 @@ navigation: Resume
 
 <br>
 
+<h3 class="section">Award</h3>
+
+##### 2015 성공회대학교 소프트웨어 경진대회 1위
+
+<br>
+
 <h3 class="section">Skills &amp; Expertise</h3>
 
 ##### Programming Skills
@@ -82,7 +88,7 @@ navigation: Resume
 - Detail - [NextersHomepage]({{site.url}}/works/nextershomepage/)
 
 ##### **SKHU Club | 성공회대학교 소프트웨어 경진대회 | 2015.04 - 2015.06**
-- SKHU Club Recommend Service
+- 성공회대학교 동아리 소개 웹 서비스
 - with EunHo Jo(Full-Stack)
 - HTL / CSS / JavaSCript(jQuery) / JSP(Model2) / MySQL 
 - 담당 파트 - Full-Stack Develop
