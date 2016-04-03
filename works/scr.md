@@ -12,7 +12,7 @@ category: Works
 성공회대학교 내의 상담 신청 및 관리 할 수 있는 웹 서비스 입니다.
 교수님들과의 필수 면담이나 개인의 희망으로 인한 상담을 신청하고 상담 내역들을 관리할 수 있는 서비스 입니다.
 
-Official Homepage: [http://scr.allan.kr](http://scr.allan.kr){:target="_blank"})
+Official Homepage: [http://scr.allan.kr](http://scr.allan.kr ){:target="_blank"})
 
 github: [https://github.com/KimSeongIl/SCRSystem](https://github.com/KimSeongIl/SCRSystem){:target="_blank"}
 
