@@ -36,17 +36,7 @@ navigation: Resume
 
 
 <br>
-<!--
-<h3 class="section">Career</h3>
 
-##### **INNOBOOSTRIA** | 2015.07 - 2016.01
--*INNOBOOST (Official Homepage - [INNOBOOST](http://www.innoboost.co.kr){:target="_blank"})*
-
-- 7개월간 프리랜서 개발자로 활동
-- INNOBOOST 회사의 사내 업무 솔루션 '[INNOBOOSTRIA]({{site.url}}/works/innoboostria/)' 개발 (인트라넷)
-
-<br>
--->
 <h3 class="section">Project</h3>
 
 ##### **NextersHompage2 | Nexters | 2016.03 ~ ing**
