@@ -13,30 +13,30 @@ navigation: Resume
 
 <h3 class="section">Education</h3>
 
-##### 남서울대학교 | 컴퓨터학과 전공 | 2010.3 - 현재
-- 학점 : 3.92 / 4.5
+##### 성공회대학교 | 소프트웨어공학과 전공 | 2011.3 - 현재
+- 학점 : 3.8 / 4.5
 
-##### 수성고등학교 | 2007.03 - 2010.02
+##### 대일고등학교 | 2008.03 - 2011.02
 
 <br>
 
 <h3 class="section">Skills &amp; Expertise</h3>
 
 ##### Programming Skills
-- Proficient at Node.js, Python(Django) and PHP(Codeigniter)
+- Proficient at JSP(Spring), PHP(Codeigniter)
 - Comprehensively understanding MVC pattern
 - Experienced at HTML5 / CSS3 / javaScript(jQuery)
-- Learning React and Redux pattern
-- Learning Cloud Computing
+- Understood Android
+- Learning AngularJS
 
 ##### Database Using Ability
-- Proficient at MariaDB(MySQL)
-- Experienced at MongoDB
-- Learning Redis
+- Proficient at MySQL
+- Experienced at PostgreSQL
+- Understood Oracle and SQL- Server
 
 
 <br>
-
+<!--
 <h3 class="section">Career</h3>
 
 ##### **INNOBOOSTRIA** | 2015.07 - 2016.01
@@ -46,7 +46,7 @@ navigation: Resume
 - INNOBOOST 회사의 사내 업무 솔루션 '[INNOBOOSTRIA]({{site.url}}/works/innoboostria/)' 개발 (인트라넷)
 
 <br>
-
+-->
 <h3 class="section">Project</h3>
 
 ##### **Antenna | Nexters | 2015.07 - 2016.02**
