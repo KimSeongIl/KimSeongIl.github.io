@@ -3,10 +3,10 @@ layout: default
 title: Skills
 permalink: /skills/
 navigation: Skills
-program_languages : ["Node.js (Express)", "Python (Django)", "PHP (Codeigniter)", "Html / CSS (Bootstrap) / JavaScript (jQuery)", "React-Redux"]
+program_languages : ["JSP (Spring)", "PHP (Codeigniter)", "Android", "Html / CSS (Bootstrap) / JavaScript (jQuery)", "AngularJS"]
 program_ability : [0, 90, 90, 80, 80, 30]
-database : ["MariaDB (MySQL)", "MongoDB", "Redis"]
-database_ability : [0, 90, 60, 40]
+database : ["MySQL", "PostgreSQL", "Oracle", "SQL-Server"]
+database_ability : [0, 90, 60, 40, 50]
 ---
 
 # {{ page.title }}
@@ -51,26 +51,26 @@ database_ability : [0, 90, 60, 40]
 	<table class="table small">
 		<thead>
 			<tr>
-				<td>Node.js (Express)</td>
+				<td>JSP (Spring)</td>
 				<td>
 					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i>
 					(Experienced)
 				</td>
 			</tr>
 		</thead>
-		<tbody>
-			<tr>
-				<td>Python (Django)</td>
-				<td>
-					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i>
-					(Experienced)
-				</td>
-			</tr>
+		<tbody>	
 			<tr>
 				<td>PHP (Codeigniter)</td>
 				<td>
 					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
 					(Used in Projects)
+				</td>
+			</tr>
+			<tr>
+				<td>Android</td>
+				<td>
+					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i>
+					(Experienced)
 				</td>
 			</tr>
 			<tr>
@@ -81,7 +81,7 @@ database_ability : [0, 90, 60, 40]
 				</td>
 			</tr>
 			<tr>
-				<td>Angular.js</td>
+				<td>AngularJS</td>
 				<td>
 					<i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 					(Learning)
@@ -130,7 +130,7 @@ database_ability : [0, 90, 60, 40]
 	<table class="table small">
 		<thead>
 			<tr>
-				<td>MariaDB (MySQL)</td>
+				<td>MySQL</td>
 				<td>
 					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 					(Experienced)
@@ -139,14 +139,21 @@ database_ability : [0, 90, 60, 40]
 		</thead>
 		<tbody>
 			<tr>
-				<td>MongoDB</td>
+				<td>PostgreSQL</td>
 				<td>
 					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 					(Understood)
 				</td>
 			</tr>
 			<tr>
-				<td>Redis</td>
+				<td>Oracle</td>
+				<td>
+					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+					(Learning)
+				</td>
+			</tr>
+			<tr>
+				<td>SQL- Server</td>
 				<td>
 					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 					(Learning)
